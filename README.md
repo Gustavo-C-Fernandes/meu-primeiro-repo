@@ -1,5 +1,10 @@
 # meu-primeiro-repo
-Meu primeiro repositório na aula de P.I 
+
+Meu primeiro repositório na aula de P.I
 
 
-Alterando o repositorio remotamente
+
+Alterando o repositório remotamente
+
+Alterando o repositório localmente
+
